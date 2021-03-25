@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.card.card-primary {
+    width: 29%;
+    margin: auto;
+}
+.card-header h3.card-title {
+    text-align: center;
+}
